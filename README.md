@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Abbiegd
+- 👀 I’m interested in programming, reading, video games and anime.
+- 🌱 I’m currently learning React.js
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me: @Linkedin - https://www.linkedin.com/in/abbiegd/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Im a huge bookworm, I mostly read fantasy books. 
